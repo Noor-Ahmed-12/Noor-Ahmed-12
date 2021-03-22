@@ -3,10 +3,9 @@
 
 - 👋 Hi, I’m Noor Ahmed Shaikh
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning pentesting
-- 💞️ I’m looking to collaborate with scripting tools developers
+- 🌱 I’m currently learning software engineering and penetration testing
+- 💞️ I’m looking to collaborate with bash and scripting tools developers
 - 📫 How to reach me via
-
 
 linkdIn: https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4
 
