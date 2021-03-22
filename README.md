@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <p>
 <img src = "https://media.tenor.com/images/1190f8b811c5aac3a3ef969b201b8241/tenor.gif" width=1000 height=200>
  </p>
-<h1>Motivated to be a saviour to protect this digital world!</h1>
+<h1 align="center">Motivated to be a saviour to protect this digital world!</h1>
 
 <h2>👋Hi, I am Noor Ahmed Shaikh</h2>
 <ul><h3><strong>-👀 I’m interested in cyber security</strong><br>
