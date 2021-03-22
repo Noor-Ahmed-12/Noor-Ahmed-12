@@ -1,9 +1,15 @@
+**Motivated to be a saviour to protect this digital world!**
+--------------------------------------------------------------
+
 - 👋 Hi, I’m Noor Ahmed Shaikh
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning pentesting
-- 💞️ I’m looking to collaborate on tools developers
+- 💞️ I’m looking to collaborate with scripting tools developers
 - 📫 How to reach me via
+
+
 linkdIn: https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4
+
 Twitter: https://twitter.com/NoorAhm86666422?s=09
 
 <!---
