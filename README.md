@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Noor-Ahmed-12&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
 <a href="https://web.facebook.com/profile.php?id=100010125183183/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width"30"></a> 
 <a href="https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width"30"></a>
