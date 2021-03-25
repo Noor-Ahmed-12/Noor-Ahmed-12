@@ -7,13 +7,9 @@ You can click the Preview link to take a look at your changes.
 <img src = "https://media.tenor.com/images/b3da74da5a2d36f4e385fdc88748e27f/tenor.gif" width=800 height=200>
  </p>
 <h1 align="center">Motivated to be a saviour to protect this digital world!</h1>
-
-
-
-<div align="center">
-<a href="https://technicalfaraz.com/"><img src="https://img.shields.io/website?label=https://technicalfaraz.com/&style=for-the-badge"/></a>
-<a href="https://twitter.com/TechnicalFaraz1"><img src="https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
-</div>
+[
+![introduction-to-cybersecurity-tools-cyber-attacks (1)](https://user-images.githubusercontent.com/60597399/111895867-cf5c4400-89d2-11eb-83a8-e69040cb0849.png)
+](https://www.youracclaim.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url) [![google-it-support-professional-certificate (1)](https://user-images.githubusercontent.com/60597399/111895936-38dc5280-89d3-11eb-9fee-afca715d630f.png)](https://www.youracclaim.com/badges/22d82bbf-0a03-4761-a6ea-88088ca98388/public_url)
 
 <ul>
 <h2>👋Hi, I am Noor Ahmed Shaikh</h2>
