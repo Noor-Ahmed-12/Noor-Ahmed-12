@@ -8,8 +8,10 @@ You can click the Preview link to take a look at your changes.
  </p>
 <h1 align="center">Motivated to be a saviour to protect this digital world!</h1>
 
+
+
 <div align="center">
-<a href="linkedin.com/in/noor-ahmed-shaikh-2989691b4/"><img src="https://img.shields.io/website?label=linkedin.com/in/noor-ahmed-shaikh-2989691b4?</a>
+<a href="https://technicalfaraz.com/"><img src="https://img.shields.io/website?label=https://technicalfaraz.com/&style=for-the-badge"/></a>
 <a href="https://twitter.com/TechnicalFaraz1"><img src="https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 </div>
 
