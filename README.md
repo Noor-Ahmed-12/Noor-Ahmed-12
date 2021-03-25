@@ -15,9 +15,11 @@ You can click the Preview link to take a look at your changes.
 <strong>-💞️ I’m looking to collaborate with bash and scripting tools developers</strong><br>
 <strong>-📫 How to reach me <a href="https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4" target="_blank">Noor Ahmed Shaikh</a><br></strong><br></h3>
  </ul>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a444519f-0b91-4380-89f2-bf63685a4c31" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="28e2fe95-1973-4fd9-b519-a70624463684" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
- 
+
+[
+![introduction-to-cybersecurity-tools-cyber-attacks (1)](https://user-images.githubusercontent.com/60597399/111895867-cf5c4400-89d2-11eb-83a8-e69040cb0849.png)
+](https://www.youracclaim.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url) [![google-it-support-professional-certificate (1)](https://user-images.githubusercontent.com/60597399/111895936-38dc5280-89d3-11eb-9fee-afca715d630f.png)](https://www.youracclaim.com/badges/22d82bbf-0a03-4761-a6ea-88088ca98388/public_url)
+
 <p align="center">
 <a href="https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width"30"></a>
 <a href="https://www.twitter.com/NoorShykh54?s=09/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width"30"></a>
