@@ -4,7 +4,7 @@ Noor-Ahmed-12/Noor-Ahmed-12 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <p>
-<img src = "https://media.tenor.com/images/b3da74da5a2d36f4e385fdc88748e27f/tenor.gif" width=800 height=150>
+<img src = "https://images.pexels.com/photos/4734933/pexels-photo-4734933.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width=800 height=100>
  </p>
 <h1 align="center">Motivated to be a saviour to protect this digital world!</h1>
 
