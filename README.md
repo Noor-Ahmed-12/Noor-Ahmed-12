@@ -7,6 +7,12 @@ You can click the Preview link to take a look at your changes.
 <img src = "https://media.tenor.com/images/b3da74da5a2d36f4e385fdc88748e27f/tenor.gif" width=800 height=200>
  </p>
 <h1 align="center">Motivated to be a saviour to protect this digital world!</h1>
+
+<div align="center">
+<a href="linkedin.com/in/noor-ahmed-shaikh-2989691b4/"><img src="https://img.shields.io/website?label=linkedin.com/in/noor-ahmed-shaikh-2989691b4/&style=for-the-badge&url=linkedin.com/in/noor-ahmed-shaikh-2989691b4/" /></a>
+<a href="https://twitter.com/TechnicalFaraz1"><img src="https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
+</div>
+
 <ul>
 <h2>👋Hi, I am Noor Ahmed Shaikh</h2>
 <h3><strong>-👀 I’m interested in cyber security</strong><br>
