@@ -4,7 +4,7 @@ Noor-Ahmed-12/Noor-Ahmed-12 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <p>
-<img src = "https://images.pexels.com/photos/4734933/pexels-photo-4734933.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width=1100 height=200>
+<img src = "https://images.pexels.com/photos/1841841/pexels-photo-1841841.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width=1100 height=200>
  </p>
 <h1 align="center">Motivated to be a saviour to protect this digital world!</h1>
 
