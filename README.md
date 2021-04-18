@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src = "https://images.pexels.com/photos/1841841/pexels-photo-1841841.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
  </p>
-<h1> Motivated to be a saviour to protect this digital world!</h1>
+<h1 align="center"> Motivated to be a saviour to protect this digital world!</h1>
 
 <ul>
 <h2>👋Hi, I am Noor Ahmed Shaikh</h2>
