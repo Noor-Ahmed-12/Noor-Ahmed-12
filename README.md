@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src = "https://images.pexels.com/photos/1841841/pexels-photo-1841841.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
  </p>
-<h1 align="center">Motivated to be a saviour to protect this digital world!</h1>
+# Motivated to be a saviour to protect this digital world!
 
 <ul>
 <h2>👋Hi, I am Noor Ahmed Shaikh</h2>
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-# content with me:
+
 <ul align="center">
  <a href="https://technicalfaraz.com/author/noor_ahmed/" alt"noor's blog" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="30" width"30"></a> 
 <a href="https://web.facebook.com/profile.php?id=100010125183183/" alt"noor's facebook" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width"30"></a> 
