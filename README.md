@@ -22,12 +22,11 @@ You can click the Preview link to take a look at your changes.
 ](https://www.youracclaim.com/badges/28e2fe95-1973-4fd9-b519-a70624463684/public_url) [![google-it-support-professional-certificate (1)](https://user-images.githubusercontent.com/60597399/111895936-38dc5280-89d3-11eb-9fee-afca715d630f.png)](https://www.youracclaim.com/badges/a444519f-0b91-4380-89f2-bf63685a4c31/public_url)
 
 
-<table>
+<table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.vercel.app/api/?username=Noor-Ahmed-12&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
-    
   </tr>
 </table>
 
