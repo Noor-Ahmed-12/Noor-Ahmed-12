@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <ul>
 <h2>👋Hi, I am Noor Ahmed Shaikh</h2>
 <h3><strong>-👀 I’m interested in cyber security</strong><br>
-<strong>-🌱 I’m currently learning software engineering and penetration testing</strong><br>
+<strong>-🌱 I’m currently learning software engineering and cyber security</strong><br>
 <strong>-💞️ I’m looking to collaborate challengers</strong><br>
 <strong>-📫 How to reach me <a href="https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4" target="_blank">Noor Ahmed Shaikh</a><br></strong><br></h3>
  </ul>
