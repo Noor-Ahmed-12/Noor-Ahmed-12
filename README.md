@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 # content with me:
-<ul>
+<ul align="center">
  <a href="https://technicalfaraz.com/author/noor_ahmed/" alt"noor's blog" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="30" width"30"></a> 
 <a href="https://web.facebook.com/profile.php?id=100010125183183/" alt"noor's facebook" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width"30"></a> 
 <a href="https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4/" alt"noor's LinkedIn" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width"30"></a>
