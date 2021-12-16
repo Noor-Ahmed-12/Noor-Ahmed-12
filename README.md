@@ -3,9 +3,6 @@
 Noor-Ahmed-12/Noor-Ahmed-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"> Motivated to be a saviour to protect this digital world!</h1>
-
-<ul>
 <h2>👋Hi, I am Noor Ahmed Shaikh</h2>
 <h3><strong>-👀 I’m interested in cyber security</strong><br>
 <strong>-🌱 I’m currently learning software engineering and cyber security</strong><br>
