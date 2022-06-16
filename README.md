@@ -4,6 +4,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/NoorShykh54?s=09)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/noor_ahmed_shykh/)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Freelancer+and+Web developer+youtube;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
@@ -16,7 +18,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
-
+<br>
 ## 👨‍💻 Github Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noor-Ahmed-12&show_icons=true&theme=dracula" />
