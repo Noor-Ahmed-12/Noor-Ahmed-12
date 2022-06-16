@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/noor_ahmed_shykh/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjL6YmenQdWJ2zM-spMUb4w)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%43F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;web+designer+and+developer;freelancer+and+Youtuber;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%43F77B93&size=30&height=50&lines=Nice+to+meet+you!;I'm+a+Software+Engineer;web+designer+and+developer;freelancer+and+Youtuber;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
