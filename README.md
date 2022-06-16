@@ -1,4 +1,4 @@
-# Hi, I'm Noor Ahmed (:snowman::computer::jack_o_lantern:)
+# Hi, I'm Noor Ahmed :snowman::computer::jack_o_lantern:
 ![](https://komarev.com/ghpvc/?username=Noor-Ahmed-12)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/NoorShykh54?s=09)
