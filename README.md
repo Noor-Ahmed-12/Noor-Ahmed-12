@@ -60,7 +60,3 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noor-Ahmed-12&show_icons=true&theme=dracula" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noor-Ahmed-12&layout=compact" />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
