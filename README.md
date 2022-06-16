@@ -28,17 +28,6 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
 
-<!---
-Noor-Ahmed-12/Noor-Ahmed-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h2>👋Hi, I am Noor Ahmed Shaikh</h2>
-<h3><strong>-👀 I’m interested in cyber security</strong><br>
-<strong>-🌱 I’m currently learning software engineering and cyber security</strong><br>
-<strong>-💞️ I’m looking to collaborate challengers</strong><br>
-<strong>-📫 How to reach me <a href="https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4" target="_blank">Noor Ahmed Shaikh</a><br></strong><br></h3>
- </ul>
- 
 
 [
 ![introduction-to-cybersecurity-tools-cyber-attacks (1)](https://user-images.githubusercontent.com/60597399/111895867-cf5c4400-89d2-11eb-83a8-e69040cb0849.png)
@@ -52,12 +41,3 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
-
-
-<ul align="center">
- <a href="https://technicalfaraz.com/author/noor_ahmed/" alt"noor's blog" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="30" width"30"></a> 
-<a href="https://web.facebook.com/profile.php?id=100010125183183/" alt"noor's facebook" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width"30"></a> 
-<a href="https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4/" alt"noor's LinkedIn" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width"30"></a>
-<a href="https://www.twitter.com/NoorShykh54?s=09/" alt"noor's twitter" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width"30"></a>
- <a href="https://www.instagram.com/noor_ahmed_shykh/" alt"noor's instagram" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width"30"></a>
- </ul>
