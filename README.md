@@ -10,7 +10,7 @@
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-* 🖥️ Currently working as a Freelancer.
+* 🖥️ Junior DevOps Engineer
 * ⛰️Love exploring off-beat hikes and peaks in the Pacific Northwest.
 * 😄 Pronouns: He/him
 * 🤯 A strange fact about me: I love to write complete sentences and over-explain myself, especially in unnecessary situations!
